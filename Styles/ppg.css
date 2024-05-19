@@ -1,0 +1,135 @@
+.big-box{
+    width: 1100px;
+    height: 550px;
+    background-color: rgb(13, 79, 139);
+    margin-top: 4%;
+    margin-left: 15%;
+    box-shadow: 20px 20px 30px rgb(59, 106, 160);
+}
+.logo-image{
+    width: 79px;
+    height: 68px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.logo-name{
+    display: inline-block;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 26px;
+    color: white;
+}
+.bar-div{
+    height: 40px;
+    width: 1072px;
+    background-color: rgb(24, 116, 205);
+    margin-left: 15px;
+}
+
+.option{
+    width: 250px;
+    height: 210px;
+    background-color: rgb(0, 63, 135);  
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 175px;
+    vertical-align: top;
+}
+.divi{
+    background-color: rgb(0, 63, 135);   
+    width: 230px;
+    height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.line{
+    width: 250.31px;
+    height: 30px;
+}
+.option-chooser{
+    width: 172.306px;
+    height: 126px;
+
+}
+.checkbox{
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+
+    margin-right: 3px;
+    margin-left: 15px;
+
+}
+.checkbox:checked {
+    background-color: rgb(40, 37, 37);
+    
+}
+.option-text{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.white-bod{
+    display: inline-block;
+    border-width: 2.8px;
+    border-color: white;
+    border-style: solid;
+    width: 645.6px;
+    height: 355.6px;
+    margin-top: 10px;
+}
+.login-spaceblank{
+    display: inline-block;
+    width: 215px;
+    height: 355.6px;
+    vertical-align: middle;
+}
+.blank2{
+    height: 355.6px;;
+    width: 425.6px;
+    display: inline-block;
+    vertical-align: top;
+}
+.login{
+    display: inline-block;
+    width: 425px;
+}
+.Roll{
+    display: inline-block;
+   
+}
+.enterroll{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 75px;
+}
+.pass{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 45px;
+}
+.logbuton{
+    margin-left: 200.6px;
+    margin-top: 15px ;
+}
+.bu{
+    font-weight: bold;
+}
